@@ -7,7 +7,6 @@
       <img alt="André Luiz Santos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 
-
 </p>
 
 > 🤑 Cryptocurrency &amp; Giftcard Exchange Website - Landing Page. Made with Next.js | Chakra UI
@@ -20,7 +19,7 @@
 
 <br />
 <div align="center">
-  <img src="./public/img/home/ead-diarista.gif" width="670">
+  <img src=".github/ead-diarista.webm" width="670">
 </div>
 
 <br />
@@ -34,9 +33,6 @@
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
-- [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
-- [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available at figma community: </h2>
 

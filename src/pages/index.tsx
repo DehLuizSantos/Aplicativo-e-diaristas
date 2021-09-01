@@ -61,6 +61,7 @@ export default function Home() {
             disabled={!cepValido || carregando}
             onClick={() => buscarProfissionais(cep)}
           >
+            {console.log(cep)}
             {carregando ? <CircularProgress size={20} /> : "Buscar"}
           </Button>
         </FormElementsContainer>

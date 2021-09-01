@@ -23,7 +23,8 @@ const UserInformation: React.FC<UserInformationProps> = ({
 }) => {
   return (
     <UserInformationContainer>
-      <AvatarStyled src={"picture"}></AvatarStyled>
+      {console.log(picture)}
+      <AvatarStyled src={`${picture}`}></AvatarStyled>
       <UserName>{name}</UserName>
       <UserDescription>{description}</UserDescription>
       <RatingStyled readOnly value={rating}></RatingStyled>

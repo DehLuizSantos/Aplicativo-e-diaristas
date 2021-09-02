@@ -9,7 +9,7 @@
 
 </p>
 
-> 🤑 Cryptocurrency &amp; Giftcard Exchange Website - Landing Page. Made with Next.js | Chakra UI
+> E-diarista &amp; Service Website - Landing Page. Made with Next.js | Material Ui-core
 
 <div align="center">
   <sub>The e-diarista project. Built with ❤︎ by
@@ -19,7 +19,7 @@
 
 <br />
 <div align="center">
-  <img src=".github/ead-diarista.webm" width="670">
+  <img src="./public/img/home/e8962d90-04e5-4474-82fc-781f8c0af936.webm" width="670">
 </div>
 
 <br />

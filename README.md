@@ -18,23 +18,14 @@
 </div>
 
 <br />
-<div align="center">
-  <img src="./public/img/home/e8962d90-04e5-4474-82fc-781f8c0af936.webm" width="670">
-</div>
+<p align="center">
+  <img src="./public/img/home/ediarista.png" width="450">
+</p>
 
 <br />
 <br />
 
 --
-
-# :pushpin: Table of Contents
-
-- [Demo Website](#eyes-demo-website)
-- [Technologies](#computer-technologies)
-- [Features](#rocket-features)
-- [How to run](#construction_worker-how-to-run)
-
-<h2 align="left"> 📥 Layout available at figma community: </h2>
 
 # :eyes: Demo Website
 
